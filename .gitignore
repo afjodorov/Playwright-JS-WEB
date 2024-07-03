@@ -1,0 +1,13 @@
+local.log
+log
+node_modules
+test-results
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright-browserstack-sdk.config.js
